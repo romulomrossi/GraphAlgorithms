@@ -73,7 +73,10 @@ class Kruskal
         for (int i = 0; i < this->trees.size(); i++)
         {
             if (trees[i].root.id == a.root.id)
+            {
                 trees.erase(trees.begin() + i);
+                return;
+            }
         }
     }
 

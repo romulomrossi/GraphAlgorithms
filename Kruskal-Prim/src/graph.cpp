@@ -40,13 +40,13 @@ class Graph
     vector<Edge> edges;
     vector<Vertex> nodes;
     bool oriented;
-
-    static Graph LoadFromFile()
+    
+    static Graph LoadFromFile(char filename[20])
     {
         Graph graph = Graph();
         Vertex origin, destiny;
 
-        FILE *file = fopen("input", "r");
+        FILE *file = fopen(filename, "r");
         char line[20];
         while (!feof(file))
         {
