@@ -1,0 +1,10 @@
+/home/hub2b/Documents/2017.2/Grafos/GraphAlgorithms/Welsh-Powell/WelshPowell/bin/Debug/netcoreapp2.0/WelshPowell.deps.json
+/home/hub2b/Documents/2017.2/Grafos/GraphAlgorithms/Welsh-Powell/WelshPowell/bin/Debug/netcoreapp2.0/WelshPowell.runtimeconfig.json
+/home/hub2b/Documents/2017.2/Grafos/GraphAlgorithms/Welsh-Powell/WelshPowell/bin/Debug/netcoreapp2.0/WelshPowell.runtimeconfig.dev.json
+/home/hub2b/Documents/2017.2/Grafos/GraphAlgorithms/Welsh-Powell/WelshPowell/bin/Debug/netcoreapp2.0/WelshPowell.dll
+/home/hub2b/Documents/2017.2/Grafos/GraphAlgorithms/Welsh-Powell/WelshPowell/bin/Debug/netcoreapp2.0/WelshPowell.pdb
+/home/hub2b/Documents/2017.2/Grafos/GraphAlgorithms/Welsh-Powell/WelshPowell/obj/Debug/netcoreapp2.0/WelshPowell.csproj.CoreCompileInputs.cache
+/home/hub2b/Documents/2017.2/Grafos/GraphAlgorithms/Welsh-Powell/WelshPowell/obj/Debug/netcoreapp2.0/WelshPowell.AssemblyInfoInputs.cache
+/home/hub2b/Documents/2017.2/Grafos/GraphAlgorithms/Welsh-Powell/WelshPowell/obj/Debug/netcoreapp2.0/WelshPowell.AssemblyInfo.cs
+/home/hub2b/Documents/2017.2/Grafos/GraphAlgorithms/Welsh-Powell/WelshPowell/obj/Debug/netcoreapp2.0/WelshPowell.dll
+/home/hub2b/Documents/2017.2/Grafos/GraphAlgorithms/Welsh-Powell/WelshPowell/obj/Debug/netcoreapp2.0/WelshPowell.pdb

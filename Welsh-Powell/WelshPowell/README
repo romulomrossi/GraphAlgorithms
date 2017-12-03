@@ -1,0 +1,20 @@
+Para rodar a aplicação, você só precisa ter o .Net Core instalado, caso não tenha, segue abaixo o link
+para o tutorial de instalação, é bem simples e leva apenas alguns minutos:
+
+https://www.microsoft.com/net/learn/get-started/linuxubuntu (Caso não utilize Ubuntu é só trocar a distribuição, no topo da pág.)
+
+Instalado o framework, basta acessar esta pasta (pasta do projeto) pelo terminal e dar o comando "dotnet run".
+
+Para alterar as entradas, é só acessar o arquivo "input". Foi considerado um grafo não direcionado e sem peso nas arestas.
+
+Recursos do C# que foram utilizados (caso não conheça):
+    - Expressão lambda 
+        Foi utilizada no método Run() da classe WelshPowell, na remoção dos vértices colorido, foi dado o seguinte comando:
+        blankNodes.RemoveAll(v => v.color == currentColor); Lê-se remover "todos os nós v da lista quando v.color for igual a currentColor";
+    - Delegate
+        Utilizado no construtor da classe WelshPowell, na ordenação da lista de vértices.   
+            blankNodes.Sort(delegate (Vertex v1, Vertex v2) { return v1.degree.CompareTo(v2.degree); });
+        O método Sort, assim como no C++, recebe como parâmetro uma função de comparação, o delegate serve apenas para
+        a implementação de um método anônimo. Seria o mesmo que implementar o método e passar seu endereço, como é feito no C++.
+
+Fora isso, só foram utilizadas estruturas análogas às do C++, como a List<T> que é análoga a vector<T>;
